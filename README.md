@@ -1,7 +1,7 @@
 
 # TXN-My-Shelby-Guid
-My Transaction Overview (TXN) for Phase 2 has been processed.  Previously, I had over 300 transactions, but they have been reset.
- ![Image Alt](https://github.com/dentunho/TXN-My-Shelby-Guid/blob/546115e176e3aeea3d3311231920b0abc570a107/ChatGPT%20Image%20Mar%2012%2C%202026%2C%2010_22_30%20AM.png)
+# My Transaction Overview (TXN) for Phase 2 has been processed.  Previously, I had over 300 transactions, but they have been reset 
+
 
 # Aptos x ShelbyUSD On-Chain Transaction Data (March 2026)
 
